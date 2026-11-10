@@ -18,6 +18,14 @@
 
 ---
 
+## `> screens`
+
+<div align="center">
+<img src="assets/screens/tools-hub.png" width="280" alt="Trading tools hub"/>
+&nbsp;&nbsp;
+<img src="assets/screens/disclosure.png" width="280" alt="Operative disclosure"/>
+</div>
+
 ## `> what_it_does`
 
 CryptoDept turns raw market noise into a clear verdict. A council of specialised AI agents reads price action, on-chain activity, news and sentiment, then produces one consensus signal you can act on, all inside a terminal-style interface.
